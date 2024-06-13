@@ -120,6 +120,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+  location_permissions:
+    dependency: "direct main"
+    description:
+      name: location_permissions
+      sha256: a8429c1bc8b87bf079c49869602833853245247c453a5f74ab03d0bf177b0e1a
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
   matcher:
     dependency: transitive
     description:
@@ -164,10 +172,10 @@ packages:
     dependency: transitive
     description:
       name: permission_handler_android
-      sha256: "8bb852cd759488893805c3161d0b2b5db55db52f773dbb014420b304055ba2c5"
+      sha256: b29a799ca03be9f999aa6c39f7de5209482d638e6f857f6b93b0875c618b7e54
       url: "https://pub.dev"
     source: hosted
-    version: "12.0.6"
+    version: "12.0.7"
   permission_handler_apple:
     dependency: transitive
     description:
@@ -261,6 +269,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.0"
+  trust_location:
+    dependency: "direct main"
+    description:
+      name: trust_location
+      sha256: "2457f4bcd9ef8423fd12d8ae1701040ecef37a488e4a46bfa50bad26d8cf7d80"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.13"
   vector_math:
     dependency: transitive
     description:
